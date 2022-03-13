@@ -1,0 +1,15 @@
+
+
+
+
+
+password : 12kghnv
+username : mohalsad
+  
+termux commend line 
+
+creat file touch -namefil.extantion
+remove file rm -namefile.ex
+remove folder rmdir 
+remove folder not empty rm -r -namefolder 
+
